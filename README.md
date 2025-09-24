@@ -42,18 +42,92 @@ const itejera01 = {
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React-Native](https://img.shields.io/badge/-React-Native-000000?style=for-the-badge&logo=express&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🗄️ Database Expertise
+```yaml
+PostgreSQL:
+  type: "Advanced Relational Database"
+  use_cases: ["Complex queries", "Data integrity", "Enterprise apps"]
+  strengths: ["ACID compliance", "JSON support", "Advanced indexing"]
+
+MySQL:
+  type: "Popular Relational Database"
+  use_cases: ["Web applications", "E-commerce", "Content management"]
+  strengths: ["High performance", "Reliability", "Wide adoption"]
+
+SQLite:
+  type: "Embedded Database"
+  use_cases: ["Mobile apps", "Desktop apps", "Prototyping"]
+  strengths: ["Zero configuration", "Serverless", "Cross-platform"]
+```
+
+### Cloud & Backend Services
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### ☁️ Cloud & Deployment Expertise
+```yaml
+Supabase:
+  type: "Backend-as-a-Service (BaaS)"
+  features: ["PostgreSQL database", "Real-time subscriptions", "Authentication"]
+  use_cases: ["Rapid prototyping", "Full-stack apps", "Real-time features"]
+  strengths: ["Open source", "SQL-based", "Edge functions", "Storage"]
+
+Vercel:
+  type: "Frontend Deployment Platform"
+  features: ["Edge network", "Serverless functions", "Preview deployments"]
+  use_cases: ["React/Next.js apps", "Static sites", "JAMstack"]
+  strengths: ["Zero config", "Git integration", "Global CDN", "Analytics"]
+
+Firebase:
+  type: "Google's App Development Platform"
+  features: ["Firestore", "Authentication", "Cloud functions", "Hosting"]
+  use_cases: ["Mobile apps", "Real-time apps", "Progressive web apps"]
+  strengths: ["Google integration", "Real-time sync", "Offline support"]
+```
+
+### Artificial Intelligence & Machine Learning
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google AI](https://img.shields.io/badge/-Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+#### 🤖 AI & ML Expertise
+```yaml
+OpenAI APIs:
+  models: ["GPT-4", "GPT-3.5", "DALL-E", "Whisper"]
+  use_cases: ["Chatbots", "Content generation", "Code assistance"]
+  integrations: ["Custom applications", "Workflow automation"]
+
+Google AI Platform:
+  models: ["Gemini Pro", "Gemini Ultra", "PaLM 2", "Bard"]
+  services: ["Vertex AI", "AI Studio", "Cloud AI APIs"]
+  use_cases: ["Multimodal AI", "Enterprise solutions", "Research"]
+  strengths: ["Advanced reasoning", "Code generation", "Google integration"]
+
+Ollama:
+  type: "Local LLM Runtime"
+  use_cases: ["Local AI models", "Privacy-focused AI", "Offline inference"]
+  strengths: ["Easy setup", "Model management", "API compatibility"]
+```
 
 </div>
 
