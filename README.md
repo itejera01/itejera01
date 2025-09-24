@@ -45,7 +45,7 @@ const itejera01 = {
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-339933?style=for-the-badge&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
@@ -55,8 +55,6 @@ const itejera01 = {
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Databases
 
@@ -101,16 +99,6 @@ const itejera01 = {
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=itejera01&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  
-![Snake animation](https://github.com/itejera01/itejera01/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
